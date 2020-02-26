@@ -1,0 +1,16 @@
+.btn,
+.Button {
+    color: var(--color-primary);
+}
+
+.tag,
+.badge,
+.btn.Is_Default, 
+.Button.Is_Default {
+    color: #fff;
+    min-width:140px;
+    height: 48px;
+    line-height: 48px;
+
+}
+
