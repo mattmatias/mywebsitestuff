@@ -15,5 +15,10 @@
 }
 body .layout-top .content .ThemeGrid_Container, body .layout-top .header .ThemeGrid_Container {
     max-width: 100%;
+    margin: 0;
 
+}
+body .layout-top .content .ThemeGrid_Container{
+    margin: 0;
+    max-width: 1440px;
 }
