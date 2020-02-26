@@ -13,4 +13,7 @@
     line-height: 48px;
 
 }
+body .layout-top .content .ThemeGrid_Container, body .layout-top .header .ThemeGrid_Container {
+    max-width: 100%;
 
+}
